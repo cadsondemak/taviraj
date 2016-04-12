@@ -1,4 +1,6 @@
-#Taviraj Font
+# Taviraj Font
+
+### [Specimen website at cadsondemak.github.io/taviraj](http://cadsondemak.github.io/taviraj/)
 
 Taviraj is a Serif Latin & Looped Thai typeface that has a wide structure that ensure readability and legibility. It is well-suited for formal usage. Thai letters have thick and thin stroke, as similar to Latin, together with its rounded and airy looped terminal. Taviraj was expanded into a 9 weight family including italic version. 
 
